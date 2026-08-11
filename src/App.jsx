@@ -11,7 +11,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src="./dist/assets/i.png" className="vite" alt="Vite logo" />
+          <img src="../dist/assets/i.png" className="vite" alt="Vite logo" />
         </div>
         <div>
           <h1>Guilherme Barrim Teixeira</h1>
