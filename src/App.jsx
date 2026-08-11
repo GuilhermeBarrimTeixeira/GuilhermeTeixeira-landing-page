@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import reactLogo from './assets/i.png'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
@@ -11,7 +11,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src="../dist/assets/i.png" className="vite" alt="Vite logo" />
+          <img src={reactLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
           <h1>Guilherme Barrim Teixeira</h1>
