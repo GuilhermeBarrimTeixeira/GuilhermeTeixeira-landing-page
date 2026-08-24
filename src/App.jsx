@@ -15,8 +15,7 @@ function App() {
         </div>
         <div>
           <h1>Guilherme Barrim Teixeira</h1>
-          <p>
-            Bom dia, Boa noite e Boa Tarde</p>
+          <p>Bom dia, Boa noite e Boa Tarde</p>
         </div>
         <button
           type="button"

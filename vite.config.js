@@ -5,7 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/GuilhermeTeixeira-landing-page/',
-  build: {
-    outDir: 'docs', 
-  }
 })
