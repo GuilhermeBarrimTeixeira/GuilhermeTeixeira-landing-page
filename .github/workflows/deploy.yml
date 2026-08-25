@@ -2,7 +2,8 @@ name: Deploy para o Github Pages
 
 on: 
   push:
-    branches:[main]
+    branches: [main]
+
 
 permissions: 
   contents: read
@@ -11,7 +12,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-pages: false
+  cancel-in-progress: false
 
 jobs:
   build:

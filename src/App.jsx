@@ -14,7 +14,7 @@ function App() {
           <img src={reactLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Guilherme Barrim Teixeira</h1>
+          <h1>24/08/2026</h1>
           <p>Bom dia, Boa noite e Boa Tarde</p>
         </div>
         <button
